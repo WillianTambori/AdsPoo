@@ -1,0 +1,15 @@
+/home/willian/Documentos/GitHub/POO/ClasseFuncionario/bin/Debug/net6.0/ClasseFuncionario
+/home/willian/Documentos/GitHub/POO/ClasseFuncionario/bin/Debug/net6.0/ClasseFuncionario.deps.json
+/home/willian/Documentos/GitHub/POO/ClasseFuncionario/bin/Debug/net6.0/ClasseFuncionario.runtimeconfig.json
+/home/willian/Documentos/GitHub/POO/ClasseFuncionario/bin/Debug/net6.0/ClasseFuncionario.dll
+/home/willian/Documentos/GitHub/POO/ClasseFuncionario/bin/Debug/net6.0/ref/ClasseFuncionario.dll
+/home/willian/Documentos/GitHub/POO/ClasseFuncionario/bin/Debug/net6.0/ClasseFuncionario.pdb
+/home/willian/Documentos/GitHub/POO/ClasseFuncionario/obj/Debug/net6.0/ClasseFuncionario.csproj.AssemblyReference.cache
+/home/willian/Documentos/GitHub/POO/ClasseFuncionario/obj/Debug/net6.0/ClasseFuncionario.GeneratedMSBuildEditorConfig.editorconfig
+/home/willian/Documentos/GitHub/POO/ClasseFuncionario/obj/Debug/net6.0/ClasseFuncionario.AssemblyInfoInputs.cache
+/home/willian/Documentos/GitHub/POO/ClasseFuncionario/obj/Debug/net6.0/ClasseFuncionario.AssemblyInfo.cs
+/home/willian/Documentos/GitHub/POO/ClasseFuncionario/obj/Debug/net6.0/ClasseFuncionario.csproj.CoreCompileInputs.cache
+/home/willian/Documentos/GitHub/POO/ClasseFuncionario/obj/Debug/net6.0/ClasseFuncionario.dll
+/home/willian/Documentos/GitHub/POO/ClasseFuncionario/obj/Debug/net6.0/ref/ClasseFuncionario.dll
+/home/willian/Documentos/GitHub/POO/ClasseFuncionario/obj/Debug/net6.0/ClasseFuncionario.pdb
+/home/willian/Documentos/GitHub/POO/ClasseFuncionario/obj/Debug/net6.0/ClasseFuncionario.genruntimeconfig.cache

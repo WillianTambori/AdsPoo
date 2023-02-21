@@ -1,0 +1,15 @@
+/home/willian/Documentos/GitHub/POO/ClasseConta/bin/Debug/net6.0/ClasseConta
+/home/willian/Documentos/GitHub/POO/ClasseConta/bin/Debug/net6.0/ClasseConta.deps.json
+/home/willian/Documentos/GitHub/POO/ClasseConta/bin/Debug/net6.0/ClasseConta.runtimeconfig.json
+/home/willian/Documentos/GitHub/POO/ClasseConta/bin/Debug/net6.0/ClasseConta.dll
+/home/willian/Documentos/GitHub/POO/ClasseConta/bin/Debug/net6.0/ref/ClasseConta.dll
+/home/willian/Documentos/GitHub/POO/ClasseConta/bin/Debug/net6.0/ClasseConta.pdb
+/home/willian/Documentos/GitHub/POO/ClasseConta/obj/Debug/net6.0/ClasseConta.csproj.AssemblyReference.cache
+/home/willian/Documentos/GitHub/POO/ClasseConta/obj/Debug/net6.0/ClasseConta.GeneratedMSBuildEditorConfig.editorconfig
+/home/willian/Documentos/GitHub/POO/ClasseConta/obj/Debug/net6.0/ClasseConta.AssemblyInfoInputs.cache
+/home/willian/Documentos/GitHub/POO/ClasseConta/obj/Debug/net6.0/ClasseConta.AssemblyInfo.cs
+/home/willian/Documentos/GitHub/POO/ClasseConta/obj/Debug/net6.0/ClasseConta.csproj.CoreCompileInputs.cache
+/home/willian/Documentos/GitHub/POO/ClasseConta/obj/Debug/net6.0/ClasseConta.dll
+/home/willian/Documentos/GitHub/POO/ClasseConta/obj/Debug/net6.0/ref/ClasseConta.dll
+/home/willian/Documentos/GitHub/POO/ClasseConta/obj/Debug/net6.0/ClasseConta.pdb
+/home/willian/Documentos/GitHub/POO/ClasseConta/obj/Debug/net6.0/ClasseConta.genruntimeconfig.cache
