@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/willian/Documentos/GitHub/POO/ClasseConta/ClasseConta.csproj": {}
+    "/home/willian/Documentos/GitHub/POO/AdsPoo/ClasseConta/ClasseConta.csproj": {}
   },
   "projects": {
-    "/home/willian/Documentos/GitHub/POO/ClasseConta/ClasseConta.csproj": {
+    "/home/willian/Documentos/GitHub/POO/AdsPoo/ClasseConta/ClasseConta.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/willian/Documentos/GitHub/POO/ClasseConta/ClasseConta.csproj",
+        "projectUniqueName": "/home/willian/Documentos/GitHub/POO/AdsPoo/ClasseConta/ClasseConta.csproj",
         "projectName": "ClasseConta",
-        "projectPath": "/home/willian/Documentos/GitHub/POO/ClasseConta/ClasseConta.csproj",
+        "projectPath": "/home/willian/Documentos/GitHub/POO/AdsPoo/ClasseConta/ClasseConta.csproj",
         "packagesPath": "/home/willian/.nuget/packages/",
-        "outputPath": "/home/willian/Documentos/GitHub/POO/ClasseConta/obj/",
+        "outputPath": "/home/willian/Documentos/GitHub/POO/AdsPoo/ClasseConta/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/willian/.nuget/NuGet/NuGet.Config"

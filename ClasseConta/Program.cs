@@ -6,14 +6,17 @@ c1.Depositar(500);
 c1.MostrarAtributos();
 
 Conta c2 = new Conta();
-Console.Write("Digite o número da conta: ");
-c2.numero = Convert.ToInt32(Console.ReadLine());
-Console.Write("Digite o titular da conta: ");
-c2.titular = Console.ReadLine();
-Console.Write("Digite o saldo da conta: ");
-c2.saldo = Convert.ToDouble(Console.ReadLine());
-c2.MostrarAtributos();
+
+c1.Inserir();
+c2.Inserir();
+
 c2.Sacar(10);
 c2.MostrarAtributos();
 c2.Depositar(200);
 c2.MostrarAtributos();
+c1.Transferir(c2);
+
+c1.MostrarAtributos();
+c2.MostrarAtributos();
+
+
