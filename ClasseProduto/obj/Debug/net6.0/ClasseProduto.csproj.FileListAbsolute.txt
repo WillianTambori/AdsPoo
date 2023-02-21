@@ -1,0 +1,15 @@
+/home/willian/Documentos/GitHub/POO/AdsPoo/ClasseProduto/bin/Debug/net6.0/ClasseProduto
+/home/willian/Documentos/GitHub/POO/AdsPoo/ClasseProduto/bin/Debug/net6.0/ClasseProduto.deps.json
+/home/willian/Documentos/GitHub/POO/AdsPoo/ClasseProduto/bin/Debug/net6.0/ClasseProduto.runtimeconfig.json
+/home/willian/Documentos/GitHub/POO/AdsPoo/ClasseProduto/bin/Debug/net6.0/ClasseProduto.dll
+/home/willian/Documentos/GitHub/POO/AdsPoo/ClasseProduto/bin/Debug/net6.0/ref/ClasseProduto.dll
+/home/willian/Documentos/GitHub/POO/AdsPoo/ClasseProduto/bin/Debug/net6.0/ClasseProduto.pdb
+/home/willian/Documentos/GitHub/POO/AdsPoo/ClasseProduto/obj/Debug/net6.0/ClasseProduto.csproj.AssemblyReference.cache
+/home/willian/Documentos/GitHub/POO/AdsPoo/ClasseProduto/obj/Debug/net6.0/ClasseProduto.GeneratedMSBuildEditorConfig.editorconfig
+/home/willian/Documentos/GitHub/POO/AdsPoo/ClasseProduto/obj/Debug/net6.0/ClasseProduto.AssemblyInfoInputs.cache
+/home/willian/Documentos/GitHub/POO/AdsPoo/ClasseProduto/obj/Debug/net6.0/ClasseProduto.AssemblyInfo.cs
+/home/willian/Documentos/GitHub/POO/AdsPoo/ClasseProduto/obj/Debug/net6.0/ClasseProduto.csproj.CoreCompileInputs.cache
+/home/willian/Documentos/GitHub/POO/AdsPoo/ClasseProduto/obj/Debug/net6.0/ClasseProduto.dll
+/home/willian/Documentos/GitHub/POO/AdsPoo/ClasseProduto/obj/Debug/net6.0/ref/ClasseProduto.dll
+/home/willian/Documentos/GitHub/POO/AdsPoo/ClasseProduto/obj/Debug/net6.0/ClasseProduto.pdb
+/home/willian/Documentos/GitHub/POO/AdsPoo/ClasseProduto/obj/Debug/net6.0/ClasseProduto.genruntimeconfig.cache

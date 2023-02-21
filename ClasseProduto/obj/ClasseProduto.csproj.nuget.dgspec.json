@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/willian/Documentos/GitHub/POO/AdsPoo/ClasseFuncionario/ClasseFuncionario.csproj": {}
+    "/home/willian/Documentos/GitHub/POO/AdsPoo/ClasseProduto/ClasseProduto.csproj": {}
   },
   "projects": {
-    "/home/willian/Documentos/GitHub/POO/AdsPoo/ClasseFuncionario/ClasseFuncionario.csproj": {
+    "/home/willian/Documentos/GitHub/POO/AdsPoo/ClasseProduto/ClasseProduto.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/willian/Documentos/GitHub/POO/AdsPoo/ClasseFuncionario/ClasseFuncionario.csproj",
-        "projectName": "ClasseFuncionario",
-        "projectPath": "/home/willian/Documentos/GitHub/POO/AdsPoo/ClasseFuncionario/ClasseFuncionario.csproj",
+        "projectUniqueName": "/home/willian/Documentos/GitHub/POO/AdsPoo/ClasseProduto/ClasseProduto.csproj",
+        "projectName": "ClasseProduto",
+        "projectPath": "/home/willian/Documentos/GitHub/POO/AdsPoo/ClasseProduto/ClasseProduto.csproj",
         "packagesPath": "/home/willian/.nuget/packages/",
-        "outputPath": "/home/willian/Documentos/GitHub/POO/AdsPoo/ClasseFuncionario/obj/",
+        "outputPath": "/home/willian/Documentos/GitHub/POO/AdsPoo/ClasseProduto/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/willian/.nuget/NuGet/NuGet.Config"
