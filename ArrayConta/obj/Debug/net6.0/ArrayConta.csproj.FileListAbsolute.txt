@@ -1,0 +1,15 @@
+/home/willian/Documentos/GitHub/POO/AdsPoo/ArrayConta/bin/Debug/net6.0/ArrayConta
+/home/willian/Documentos/GitHub/POO/AdsPoo/ArrayConta/bin/Debug/net6.0/ArrayConta.deps.json
+/home/willian/Documentos/GitHub/POO/AdsPoo/ArrayConta/bin/Debug/net6.0/ArrayConta.runtimeconfig.json
+/home/willian/Documentos/GitHub/POO/AdsPoo/ArrayConta/bin/Debug/net6.0/ArrayConta.dll
+/home/willian/Documentos/GitHub/POO/AdsPoo/ArrayConta/bin/Debug/net6.0/ref/ArrayConta.dll
+/home/willian/Documentos/GitHub/POO/AdsPoo/ArrayConta/bin/Debug/net6.0/ArrayConta.pdb
+/home/willian/Documentos/GitHub/POO/AdsPoo/ArrayConta/obj/Debug/net6.0/ArrayConta.csproj.AssemblyReference.cache
+/home/willian/Documentos/GitHub/POO/AdsPoo/ArrayConta/obj/Debug/net6.0/ArrayConta.GeneratedMSBuildEditorConfig.editorconfig
+/home/willian/Documentos/GitHub/POO/AdsPoo/ArrayConta/obj/Debug/net6.0/ArrayConta.AssemblyInfoInputs.cache
+/home/willian/Documentos/GitHub/POO/AdsPoo/ArrayConta/obj/Debug/net6.0/ArrayConta.AssemblyInfo.cs
+/home/willian/Documentos/GitHub/POO/AdsPoo/ArrayConta/obj/Debug/net6.0/ArrayConta.csproj.CoreCompileInputs.cache
+/home/willian/Documentos/GitHub/POO/AdsPoo/ArrayConta/obj/Debug/net6.0/ArrayConta.dll
+/home/willian/Documentos/GitHub/POO/AdsPoo/ArrayConta/obj/Debug/net6.0/ref/ArrayConta.dll
+/home/willian/Documentos/GitHub/POO/AdsPoo/ArrayConta/obj/Debug/net6.0/ArrayConta.pdb
+/home/willian/Documentos/GitHub/POO/AdsPoo/ArrayConta/obj/Debug/net6.0/ArrayConta.genruntimeconfig.cache

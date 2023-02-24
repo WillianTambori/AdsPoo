@@ -3,17 +3,18 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 
-namespace ClasseConta
+namespace ArrayConta
 {
     public class Conta
     {
+        
         public int numero;
         public string titular = "";
         public double saldo;
         public void MostrarAtributos()
         {
-            Console.WriteLine("Número: " + numero + "\tTitular: " + titular +
-            "\tSaldo: " + saldo);
+            Console.WriteLine("Número: " + numero + "\t\tTitular: " + titular +
+            "\t\tSaldo: " + saldo);
         }
 
         public void Inserir()

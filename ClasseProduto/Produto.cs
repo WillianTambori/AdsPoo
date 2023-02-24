@@ -21,7 +21,7 @@ namespace ClasseProduto
         }
         public void Mostrar()
         {
-            System.Console.WriteLine("código: " + code + "\ndescrição: " + description + "\npreço: " + price);
+            System.Console.WriteLine("código: " + code + "\tdescrição: " + description + "\tpreço: " + price);
 
         }
         public void Somar(double a, double b, double c)
@@ -29,7 +29,7 @@ namespace ClasseProduto
             double total;
             total = a + b + c;
 
-            System.Console.WriteLine("\n\nTotal\n: " +total);
+            System.Console.WriteLine($"\n****Soma dos preços R$ {total:N}");
 
         }
         
