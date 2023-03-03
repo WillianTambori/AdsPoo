@@ -12,7 +12,7 @@ namespace ClasseProduto
         public double price;
         public void Inserir()
         {
-            System.Console.WriteLine("insira o código do produto");
+           System.Console.WriteLine("insira o código do produto");
             code = Convert.ToInt32(Console.ReadLine());
             System.Console.WriteLine("insira a descrição dele: ");
             description = Console.ReadLine();

@@ -1,0 +1,15 @@
+/home/willian/Documentos/GitHub/POO/AdsPoo/EncapsulamentoConta/bin/Debug/net6.0/EncapsulamentoConta
+/home/willian/Documentos/GitHub/POO/AdsPoo/EncapsulamentoConta/bin/Debug/net6.0/EncapsulamentoConta.deps.json
+/home/willian/Documentos/GitHub/POO/AdsPoo/EncapsulamentoConta/bin/Debug/net6.0/EncapsulamentoConta.runtimeconfig.json
+/home/willian/Documentos/GitHub/POO/AdsPoo/EncapsulamentoConta/bin/Debug/net6.0/EncapsulamentoConta.dll
+/home/willian/Documentos/GitHub/POO/AdsPoo/EncapsulamentoConta/bin/Debug/net6.0/ref/EncapsulamentoConta.dll
+/home/willian/Documentos/GitHub/POO/AdsPoo/EncapsulamentoConta/bin/Debug/net6.0/EncapsulamentoConta.pdb
+/home/willian/Documentos/GitHub/POO/AdsPoo/EncapsulamentoConta/obj/Debug/net6.0/EncapsulamentoConta.csproj.AssemblyReference.cache
+/home/willian/Documentos/GitHub/POO/AdsPoo/EncapsulamentoConta/obj/Debug/net6.0/EncapsulamentoConta.GeneratedMSBuildEditorConfig.editorconfig
+/home/willian/Documentos/GitHub/POO/AdsPoo/EncapsulamentoConta/obj/Debug/net6.0/EncapsulamentoConta.AssemblyInfoInputs.cache
+/home/willian/Documentos/GitHub/POO/AdsPoo/EncapsulamentoConta/obj/Debug/net6.0/EncapsulamentoConta.AssemblyInfo.cs
+/home/willian/Documentos/GitHub/POO/AdsPoo/EncapsulamentoConta/obj/Debug/net6.0/EncapsulamentoConta.csproj.CoreCompileInputs.cache
+/home/willian/Documentos/GitHub/POO/AdsPoo/EncapsulamentoConta/obj/Debug/net6.0/EncapsulamentoConta.dll
+/home/willian/Documentos/GitHub/POO/AdsPoo/EncapsulamentoConta/obj/Debug/net6.0/ref/EncapsulamentoConta.dll
+/home/willian/Documentos/GitHub/POO/AdsPoo/EncapsulamentoConta/obj/Debug/net6.0/EncapsulamentoConta.pdb
+/home/willian/Documentos/GitHub/POO/AdsPoo/EncapsulamentoConta/obj/Debug/net6.0/EncapsulamentoConta.genruntimeconfig.cache
