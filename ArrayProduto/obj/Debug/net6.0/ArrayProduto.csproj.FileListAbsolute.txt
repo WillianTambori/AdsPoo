@@ -1,0 +1,15 @@
+/home/willian/Documentos/GitHub/POO/AdsPoo/ArrayProduto/bin/Debug/net6.0/ArrayProduto
+/home/willian/Documentos/GitHub/POO/AdsPoo/ArrayProduto/bin/Debug/net6.0/ArrayProduto.deps.json
+/home/willian/Documentos/GitHub/POO/AdsPoo/ArrayProduto/bin/Debug/net6.0/ArrayProduto.runtimeconfig.json
+/home/willian/Documentos/GitHub/POO/AdsPoo/ArrayProduto/bin/Debug/net6.0/ArrayProduto.dll
+/home/willian/Documentos/GitHub/POO/AdsPoo/ArrayProduto/bin/Debug/net6.0/ref/ArrayProduto.dll
+/home/willian/Documentos/GitHub/POO/AdsPoo/ArrayProduto/bin/Debug/net6.0/ArrayProduto.pdb
+/home/willian/Documentos/GitHub/POO/AdsPoo/ArrayProduto/obj/Debug/net6.0/ArrayProduto.csproj.AssemblyReference.cache
+/home/willian/Documentos/GitHub/POO/AdsPoo/ArrayProduto/obj/Debug/net6.0/ArrayProduto.GeneratedMSBuildEditorConfig.editorconfig
+/home/willian/Documentos/GitHub/POO/AdsPoo/ArrayProduto/obj/Debug/net6.0/ArrayProduto.AssemblyInfoInputs.cache
+/home/willian/Documentos/GitHub/POO/AdsPoo/ArrayProduto/obj/Debug/net6.0/ArrayProduto.AssemblyInfo.cs
+/home/willian/Documentos/GitHub/POO/AdsPoo/ArrayProduto/obj/Debug/net6.0/ArrayProduto.csproj.CoreCompileInputs.cache
+/home/willian/Documentos/GitHub/POO/AdsPoo/ArrayProduto/obj/Debug/net6.0/ArrayProduto.dll
+/home/willian/Documentos/GitHub/POO/AdsPoo/ArrayProduto/obj/Debug/net6.0/ref/ArrayProduto.dll
+/home/willian/Documentos/GitHub/POO/AdsPoo/ArrayProduto/obj/Debug/net6.0/ArrayProduto.pdb
+/home/willian/Documentos/GitHub/POO/AdsPoo/ArrayProduto/obj/Debug/net6.0/ArrayProduto.genruntimeconfig.cache

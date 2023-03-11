@@ -7,6 +7,23 @@ namespace EncapsulamentoCartoCredito
 {
     public class CartaoCredito
     {
+        private int numero;
+        public int Numero
+        {
+            get { return numero; }
+            set { numero = value; }
+        }
+        private string nome="";
+        public string Nome
+        {
+            get { return nome; }
+            set { nome = value; }
+        }
+        
+       
+        
+        
+     
         // int nome
         //string nome
         //double saldo

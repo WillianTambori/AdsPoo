@@ -1,0 +1,15 @@
+/home/willian/Documentos/GitHub/POO/ConstrutorFuncionario/obj/Debug/net6.0/ConstrutorFuncionario.csproj.AssemblyReference.cache
+/home/willian/Documentos/GitHub/POO/ConstrutorFuncionario/obj/Debug/net6.0/ConstrutorFuncionario.GeneratedMSBuildEditorConfig.editorconfig
+/home/willian/Documentos/GitHub/POO/ConstrutorFuncionario/obj/Debug/net6.0/ConstrutorFuncionario.AssemblyInfoInputs.cache
+/home/willian/Documentos/GitHub/POO/ConstrutorFuncionario/obj/Debug/net6.0/ConstrutorFuncionario.AssemblyInfo.cs
+/home/willian/Documentos/GitHub/POO/ConstrutorFuncionario/obj/Debug/net6.0/ConstrutorFuncionario.csproj.CoreCompileInputs.cache
+/home/willian/Documentos/GitHub/POO/ConstrutorFuncionario/bin/Debug/net6.0/ConstrutorFuncionario
+/home/willian/Documentos/GitHub/POO/ConstrutorFuncionario/bin/Debug/net6.0/ConstrutorFuncionario.deps.json
+/home/willian/Documentos/GitHub/POO/ConstrutorFuncionario/bin/Debug/net6.0/ConstrutorFuncionario.runtimeconfig.json
+/home/willian/Documentos/GitHub/POO/ConstrutorFuncionario/bin/Debug/net6.0/ConstrutorFuncionario.dll
+/home/willian/Documentos/GitHub/POO/ConstrutorFuncionario/bin/Debug/net6.0/ref/ConstrutorFuncionario.dll
+/home/willian/Documentos/GitHub/POO/ConstrutorFuncionario/bin/Debug/net6.0/ConstrutorFuncionario.pdb
+/home/willian/Documentos/GitHub/POO/ConstrutorFuncionario/obj/Debug/net6.0/ConstrutorFuncionario.dll
+/home/willian/Documentos/GitHub/POO/ConstrutorFuncionario/obj/Debug/net6.0/ref/ConstrutorFuncionario.dll
+/home/willian/Documentos/GitHub/POO/ConstrutorFuncionario/obj/Debug/net6.0/ConstrutorFuncionario.pdb
+/home/willian/Documentos/GitHub/POO/ConstrutorFuncionario/obj/Debug/net6.0/ConstrutorFuncionario.genruntimeconfig.cache
