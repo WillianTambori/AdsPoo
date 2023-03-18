@@ -1,0 +1,15 @@
+/home/willian/Documentos/GitHub/POO/AdsPoo/AgregacaoContaVetor/obj/Debug/net6.0/AgregacaoContaVetor.csproj.AssemblyReference.cache
+/home/willian/Documentos/GitHub/POO/AdsPoo/AgregacaoContaVetor/obj/Debug/net6.0/AgregacaoContaVetor.GeneratedMSBuildEditorConfig.editorconfig
+/home/willian/Documentos/GitHub/POO/AdsPoo/AgregacaoContaVetor/obj/Debug/net6.0/AgregacaoContaVetor.AssemblyInfoInputs.cache
+/home/willian/Documentos/GitHub/POO/AdsPoo/AgregacaoContaVetor/obj/Debug/net6.0/AgregacaoContaVetor.AssemblyInfo.cs
+/home/willian/Documentos/GitHub/POO/AdsPoo/AgregacaoContaVetor/obj/Debug/net6.0/AgregacaoContaVetor.csproj.CoreCompileInputs.cache
+/home/willian/Documentos/GitHub/POO/AdsPoo/AgregacaoContaVetor/bin/Debug/net6.0/AgregacaoContaVetor
+/home/willian/Documentos/GitHub/POO/AdsPoo/AgregacaoContaVetor/bin/Debug/net6.0/AgregacaoContaVetor.deps.json
+/home/willian/Documentos/GitHub/POO/AdsPoo/AgregacaoContaVetor/bin/Debug/net6.0/AgregacaoContaVetor.runtimeconfig.json
+/home/willian/Documentos/GitHub/POO/AdsPoo/AgregacaoContaVetor/bin/Debug/net6.0/AgregacaoContaVetor.dll
+/home/willian/Documentos/GitHub/POO/AdsPoo/AgregacaoContaVetor/bin/Debug/net6.0/ref/AgregacaoContaVetor.dll
+/home/willian/Documentos/GitHub/POO/AdsPoo/AgregacaoContaVetor/bin/Debug/net6.0/AgregacaoContaVetor.pdb
+/home/willian/Documentos/GitHub/POO/AdsPoo/AgregacaoContaVetor/obj/Debug/net6.0/AgregacaoContaVetor.dll
+/home/willian/Documentos/GitHub/POO/AdsPoo/AgregacaoContaVetor/obj/Debug/net6.0/ref/AgregacaoContaVetor.dll
+/home/willian/Documentos/GitHub/POO/AdsPoo/AgregacaoContaVetor/obj/Debug/net6.0/AgregacaoContaVetor.pdb
+/home/willian/Documentos/GitHub/POO/AdsPoo/AgregacaoContaVetor/obj/Debug/net6.0/AgregacaoContaVetor.genruntimeconfig.cache

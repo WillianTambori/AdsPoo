@@ -1,0 +1,15 @@
+/home/willian/Documentos/GitHub/POO/AdsPoo/AgregacaoVenda/obj/Debug/net6.0/AgregacaoVenda.csproj.AssemblyReference.cache
+/home/willian/Documentos/GitHub/POO/AdsPoo/AgregacaoVenda/obj/Debug/net6.0/AgregacaoVenda.GeneratedMSBuildEditorConfig.editorconfig
+/home/willian/Documentos/GitHub/POO/AdsPoo/AgregacaoVenda/obj/Debug/net6.0/AgregacaoVenda.AssemblyInfoInputs.cache
+/home/willian/Documentos/GitHub/POO/AdsPoo/AgregacaoVenda/obj/Debug/net6.0/AgregacaoVenda.AssemblyInfo.cs
+/home/willian/Documentos/GitHub/POO/AdsPoo/AgregacaoVenda/obj/Debug/net6.0/AgregacaoVenda.csproj.CoreCompileInputs.cache
+/home/willian/Documentos/GitHub/POO/AdsPoo/AgregacaoVenda/bin/Debug/net6.0/AgregacaoVenda
+/home/willian/Documentos/GitHub/POO/AdsPoo/AgregacaoVenda/bin/Debug/net6.0/AgregacaoVenda.deps.json
+/home/willian/Documentos/GitHub/POO/AdsPoo/AgregacaoVenda/bin/Debug/net6.0/AgregacaoVenda.runtimeconfig.json
+/home/willian/Documentos/GitHub/POO/AdsPoo/AgregacaoVenda/bin/Debug/net6.0/AgregacaoVenda.dll
+/home/willian/Documentos/GitHub/POO/AdsPoo/AgregacaoVenda/bin/Debug/net6.0/ref/AgregacaoVenda.dll
+/home/willian/Documentos/GitHub/POO/AdsPoo/AgregacaoVenda/bin/Debug/net6.0/AgregacaoVenda.pdb
+/home/willian/Documentos/GitHub/POO/AdsPoo/AgregacaoVenda/obj/Debug/net6.0/AgregacaoVenda.dll
+/home/willian/Documentos/GitHub/POO/AdsPoo/AgregacaoVenda/obj/Debug/net6.0/ref/AgregacaoVenda.dll
+/home/willian/Documentos/GitHub/POO/AdsPoo/AgregacaoVenda/obj/Debug/net6.0/AgregacaoVenda.pdb
+/home/willian/Documentos/GitHub/POO/AdsPoo/AgregacaoVenda/obj/Debug/net6.0/AgregacaoVenda.genruntimeconfig.cache

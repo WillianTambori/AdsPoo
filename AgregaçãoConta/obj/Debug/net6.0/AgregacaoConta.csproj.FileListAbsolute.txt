@@ -1,0 +1,15 @@
+/home/willian/Documentos/GitHub/POO/AdsPoo/AgregaçãoConta/obj/Debug/net6.0/AgregacaoConta.csproj.AssemblyReference.cache
+/home/willian/Documentos/GitHub/POO/AdsPoo/AgregaçãoConta/obj/Debug/net6.0/AgregacaoConta.GeneratedMSBuildEditorConfig.editorconfig
+/home/willian/Documentos/GitHub/POO/AdsPoo/AgregaçãoConta/obj/Debug/net6.0/AgregacaoConta.AssemblyInfoInputs.cache
+/home/willian/Documentos/GitHub/POO/AdsPoo/AgregaçãoConta/obj/Debug/net6.0/AgregacaoConta.AssemblyInfo.cs
+/home/willian/Documentos/GitHub/POO/AdsPoo/AgregaçãoConta/obj/Debug/net6.0/AgregacaoConta.csproj.CoreCompileInputs.cache
+/home/willian/Documentos/GitHub/POO/AdsPoo/AgregaçãoConta/bin/Debug/net6.0/AgregacaoConta
+/home/willian/Documentos/GitHub/POO/AdsPoo/AgregaçãoConta/bin/Debug/net6.0/AgregacaoConta.deps.json
+/home/willian/Documentos/GitHub/POO/AdsPoo/AgregaçãoConta/bin/Debug/net6.0/AgregacaoConta.runtimeconfig.json
+/home/willian/Documentos/GitHub/POO/AdsPoo/AgregaçãoConta/bin/Debug/net6.0/AgregacaoConta.dll
+/home/willian/Documentos/GitHub/POO/AdsPoo/AgregaçãoConta/bin/Debug/net6.0/ref/AgregacaoConta.dll
+/home/willian/Documentos/GitHub/POO/AdsPoo/AgregaçãoConta/bin/Debug/net6.0/AgregacaoConta.pdb
+/home/willian/Documentos/GitHub/POO/AdsPoo/AgregaçãoConta/obj/Debug/net6.0/AgregacaoConta.dll
+/home/willian/Documentos/GitHub/POO/AdsPoo/AgregaçãoConta/obj/Debug/net6.0/ref/AgregacaoConta.dll
+/home/willian/Documentos/GitHub/POO/AdsPoo/AgregaçãoConta/obj/Debug/net6.0/AgregacaoConta.pdb
+/home/willian/Documentos/GitHub/POO/AdsPoo/AgregaçãoConta/obj/Debug/net6.0/AgregacaoConta.genruntimeconfig.cache
