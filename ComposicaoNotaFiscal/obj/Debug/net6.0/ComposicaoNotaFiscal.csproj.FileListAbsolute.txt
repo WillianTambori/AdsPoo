@@ -1,0 +1,15 @@
+/home/willian/Documentos/GitHub/POO/AdsPoo/ComposicaoNotaFiscal/obj/Debug/net6.0/ComposicaoNotaFiscal.csproj.AssemblyReference.cache
+/home/willian/Documentos/GitHub/POO/AdsPoo/ComposicaoNotaFiscal/obj/Debug/net6.0/ComposicaoNotaFiscal.GeneratedMSBuildEditorConfig.editorconfig
+/home/willian/Documentos/GitHub/POO/AdsPoo/ComposicaoNotaFiscal/obj/Debug/net6.0/ComposicaoNotaFiscal.AssemblyInfoInputs.cache
+/home/willian/Documentos/GitHub/POO/AdsPoo/ComposicaoNotaFiscal/obj/Debug/net6.0/ComposicaoNotaFiscal.AssemblyInfo.cs
+/home/willian/Documentos/GitHub/POO/AdsPoo/ComposicaoNotaFiscal/obj/Debug/net6.0/ComposicaoNotaFiscal.csproj.CoreCompileInputs.cache
+/home/willian/Documentos/GitHub/POO/AdsPoo/ComposicaoNotaFiscal/bin/Debug/net6.0/ComposicaoNotaFiscal
+/home/willian/Documentos/GitHub/POO/AdsPoo/ComposicaoNotaFiscal/bin/Debug/net6.0/ComposicaoNotaFiscal.deps.json
+/home/willian/Documentos/GitHub/POO/AdsPoo/ComposicaoNotaFiscal/bin/Debug/net6.0/ComposicaoNotaFiscal.runtimeconfig.json
+/home/willian/Documentos/GitHub/POO/AdsPoo/ComposicaoNotaFiscal/bin/Debug/net6.0/ComposicaoNotaFiscal.dll
+/home/willian/Documentos/GitHub/POO/AdsPoo/ComposicaoNotaFiscal/bin/Debug/net6.0/ref/ComposicaoNotaFiscal.dll
+/home/willian/Documentos/GitHub/POO/AdsPoo/ComposicaoNotaFiscal/bin/Debug/net6.0/ComposicaoNotaFiscal.pdb
+/home/willian/Documentos/GitHub/POO/AdsPoo/ComposicaoNotaFiscal/obj/Debug/net6.0/ComposicaoNotaFiscal.dll
+/home/willian/Documentos/GitHub/POO/AdsPoo/ComposicaoNotaFiscal/obj/Debug/net6.0/ref/ComposicaoNotaFiscal.dll
+/home/willian/Documentos/GitHub/POO/AdsPoo/ComposicaoNotaFiscal/obj/Debug/net6.0/ComposicaoNotaFiscal.pdb
+/home/willian/Documentos/GitHub/POO/AdsPoo/ComposicaoNotaFiscal/obj/Debug/net6.0/ComposicaoNotaFiscal.genruntimeconfig.cache

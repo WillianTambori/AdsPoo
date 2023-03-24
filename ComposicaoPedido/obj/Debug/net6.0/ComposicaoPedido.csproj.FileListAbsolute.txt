@@ -1,0 +1,15 @@
+/home/willian/Documentos/GitHub/POO/AdsPoo/ComposicaoPedido/bin/Debug/net6.0/ComposicaoPedido
+/home/willian/Documentos/GitHub/POO/AdsPoo/ComposicaoPedido/bin/Debug/net6.0/ComposicaoPedido.deps.json
+/home/willian/Documentos/GitHub/POO/AdsPoo/ComposicaoPedido/bin/Debug/net6.0/ComposicaoPedido.runtimeconfig.json
+/home/willian/Documentos/GitHub/POO/AdsPoo/ComposicaoPedido/bin/Debug/net6.0/ComposicaoPedido.dll
+/home/willian/Documentos/GitHub/POO/AdsPoo/ComposicaoPedido/bin/Debug/net6.0/ref/ComposicaoPedido.dll
+/home/willian/Documentos/GitHub/POO/AdsPoo/ComposicaoPedido/bin/Debug/net6.0/ComposicaoPedido.pdb
+/home/willian/Documentos/GitHub/POO/AdsPoo/ComposicaoPedido/obj/Debug/net6.0/ComposicaoPedido.csproj.AssemblyReference.cache
+/home/willian/Documentos/GitHub/POO/AdsPoo/ComposicaoPedido/obj/Debug/net6.0/ComposicaoPedido.GeneratedMSBuildEditorConfig.editorconfig
+/home/willian/Documentos/GitHub/POO/AdsPoo/ComposicaoPedido/obj/Debug/net6.0/ComposicaoPedido.AssemblyInfoInputs.cache
+/home/willian/Documentos/GitHub/POO/AdsPoo/ComposicaoPedido/obj/Debug/net6.0/ComposicaoPedido.AssemblyInfo.cs
+/home/willian/Documentos/GitHub/POO/AdsPoo/ComposicaoPedido/obj/Debug/net6.0/ComposicaoPedido.csproj.CoreCompileInputs.cache
+/home/willian/Documentos/GitHub/POO/AdsPoo/ComposicaoPedido/obj/Debug/net6.0/ComposicaoPedido.dll
+/home/willian/Documentos/GitHub/POO/AdsPoo/ComposicaoPedido/obj/Debug/net6.0/ref/ComposicaoPedido.dll
+/home/willian/Documentos/GitHub/POO/AdsPoo/ComposicaoPedido/obj/Debug/net6.0/ComposicaoPedido.pdb
+/home/willian/Documentos/GitHub/POO/AdsPoo/ComposicaoPedido/obj/Debug/net6.0/ComposicaoPedido.genruntimeconfig.cache

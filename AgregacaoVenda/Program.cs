@@ -3,13 +3,18 @@
 Comprador c1 = new Comprador(3000);
 Vendedor v1 = new Vendedor(100);
 Produto p1 = new Produto(30,400);
-Venda venda = new Venda(c1,v1,p1);
+Venda venda = new Venda();
+
+
 
 System.Console.WriteLine("produto: ");
-venda.p.vendido();
+venda.P = p1;
+venda.P.vendido();
 System.Console.WriteLine("Comissão do vendedor: ");
-venda.v.Vende();
+venda.V = v1;
+venda.V.Vende();
 System.Console.WriteLine("verba para comprar: ");
-venda.c.Compra();
+venda.C = c1;
+venda.C.Compra();
 
 
