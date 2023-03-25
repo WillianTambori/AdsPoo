@@ -1,5 +1,4 @@
-﻿using System;
-// função Main() implícita
+﻿// função Main() implícita
 
 using ComposicaoNotaFiscal;
 ItemNf it1 = new ItemNf(5);

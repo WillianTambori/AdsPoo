@@ -1,0 +1,15 @@
+/home/willian/Documentos/GitHub/POO/AdsPoo/ComposicaoBanco/bin/Debug/net6.0/ComposicaoBanco
+/home/willian/Documentos/GitHub/POO/AdsPoo/ComposicaoBanco/bin/Debug/net6.0/ComposicaoBanco.deps.json
+/home/willian/Documentos/GitHub/POO/AdsPoo/ComposicaoBanco/bin/Debug/net6.0/ComposicaoBanco.runtimeconfig.json
+/home/willian/Documentos/GitHub/POO/AdsPoo/ComposicaoBanco/bin/Debug/net6.0/ComposicaoBanco.dll
+/home/willian/Documentos/GitHub/POO/AdsPoo/ComposicaoBanco/bin/Debug/net6.0/ref/ComposicaoBanco.dll
+/home/willian/Documentos/GitHub/POO/AdsPoo/ComposicaoBanco/bin/Debug/net6.0/ComposicaoBanco.pdb
+/home/willian/Documentos/GitHub/POO/AdsPoo/ComposicaoBanco/obj/Debug/net6.0/ComposicaoBanco.csproj.AssemblyReference.cache
+/home/willian/Documentos/GitHub/POO/AdsPoo/ComposicaoBanco/obj/Debug/net6.0/ComposicaoBanco.GeneratedMSBuildEditorConfig.editorconfig
+/home/willian/Documentos/GitHub/POO/AdsPoo/ComposicaoBanco/obj/Debug/net6.0/ComposicaoBanco.AssemblyInfoInputs.cache
+/home/willian/Documentos/GitHub/POO/AdsPoo/ComposicaoBanco/obj/Debug/net6.0/ComposicaoBanco.AssemblyInfo.cs
+/home/willian/Documentos/GitHub/POO/AdsPoo/ComposicaoBanco/obj/Debug/net6.0/ComposicaoBanco.csproj.CoreCompileInputs.cache
+/home/willian/Documentos/GitHub/POO/AdsPoo/ComposicaoBanco/obj/Debug/net6.0/ComposicaoBanco.dll
+/home/willian/Documentos/GitHub/POO/AdsPoo/ComposicaoBanco/obj/Debug/net6.0/ref/ComposicaoBanco.dll
+/home/willian/Documentos/GitHub/POO/AdsPoo/ComposicaoBanco/obj/Debug/net6.0/ComposicaoBanco.pdb
+/home/willian/Documentos/GitHub/POO/AdsPoo/ComposicaoBanco/obj/Debug/net6.0/ComposicaoBanco.genruntimeconfig.cache

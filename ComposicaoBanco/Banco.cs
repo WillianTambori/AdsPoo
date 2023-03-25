@@ -10,12 +10,22 @@ namespace ComposicaoBanco
         public List<Poupanca> Poups { get; set; }
         public List<ContaCorrente> Contas { get; set; }
 
-        public Banco(Poupanca p, ContaCorrente c)
+        public Banco(List<Poupanca> p)
         {
             Poups = p;
-            Contas = c;
-
             
+        }
+
+        public Banco(List<ContaCorrente> c)
+        {
+            Contas = c;
+            
+        }
+        public void AbrirConta(){
+
+        }
+        public void AbrirPoupança(){
+
         }
 
 
@@ -24,6 +34,7 @@ namespace ComposicaoBanco
             Contas = null;
 
         }
+        
         
         
     }
