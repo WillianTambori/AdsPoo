@@ -8,12 +8,14 @@ cp1.sacar(3200);
 
 List<ContaCorrente> Vetcc = new List<ContaCorrente>(); 
 List<Poupanca> Vetcp = new List<Poupanca>();
+
+Banco c1 = new Banco(Vetcp);
+Banco c2 = new Banco(Vetcc);
+
 Vetcc.Add(cc1);
 Vetcp.Add(cp1);
 Vetcc.Add(cc2);
 Vetcp.Add(cp2);
-Banco c1 = new Banco(Vetcp);
-Banco c2 = new Banco(Vetcc);
 
 foreach (Poupanca it in c1.Poups)
     Console.WriteLine("conta Poupança: " + it.Saldo);

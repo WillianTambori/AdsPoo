@@ -25,3 +25,4 @@ foreach(Conta c in vetConta)
     somaSaldo += c.saldo;
     }
 System.Console.WriteLine(($"valor total dos saldos {somaSaldo:N}"));
+
