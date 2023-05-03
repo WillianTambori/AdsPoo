@@ -1,0 +1,15 @@
+/home/willian/Documentos/GitHub/POO/AdsPoo/HerancaCliente/obj/Debug/net6.0/HerancaCliente.csproj.AssemblyReference.cache
+/home/willian/Documentos/GitHub/POO/AdsPoo/HerancaCliente/obj/Debug/net6.0/HerancaCliente.GeneratedMSBuildEditorConfig.editorconfig
+/home/willian/Documentos/GitHub/POO/AdsPoo/HerancaCliente/obj/Debug/net6.0/HerancaCliente.AssemblyInfoInputs.cache
+/home/willian/Documentos/GitHub/POO/AdsPoo/HerancaCliente/obj/Debug/net6.0/HerancaCliente.AssemblyInfo.cs
+/home/willian/Documentos/GitHub/POO/AdsPoo/HerancaCliente/obj/Debug/net6.0/HerancaCliente.csproj.CoreCompileInputs.cache
+/home/willian/Documentos/GitHub/POO/AdsPoo/HerancaCliente/bin/Debug/net6.0/HerancaCliente
+/home/willian/Documentos/GitHub/POO/AdsPoo/HerancaCliente/bin/Debug/net6.0/HerancaCliente.deps.json
+/home/willian/Documentos/GitHub/POO/AdsPoo/HerancaCliente/bin/Debug/net6.0/HerancaCliente.runtimeconfig.json
+/home/willian/Documentos/GitHub/POO/AdsPoo/HerancaCliente/bin/Debug/net6.0/HerancaCliente.dll
+/home/willian/Documentos/GitHub/POO/AdsPoo/HerancaCliente/bin/Debug/net6.0/ref/HerancaCliente.dll
+/home/willian/Documentos/GitHub/POO/AdsPoo/HerancaCliente/bin/Debug/net6.0/HerancaCliente.pdb
+/home/willian/Documentos/GitHub/POO/AdsPoo/HerancaCliente/obj/Debug/net6.0/HerancaCliente.dll
+/home/willian/Documentos/GitHub/POO/AdsPoo/HerancaCliente/obj/Debug/net6.0/ref/HerancaCliente.dll
+/home/willian/Documentos/GitHub/POO/AdsPoo/HerancaCliente/obj/Debug/net6.0/HerancaCliente.pdb
+/home/willian/Documentos/GitHub/POO/AdsPoo/HerancaCliente/obj/Debug/net6.0/HerancaCliente.genruntimeconfig.cache

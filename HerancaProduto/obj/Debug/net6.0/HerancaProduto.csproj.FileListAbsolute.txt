@@ -1,0 +1,15 @@
+/home/willian/Documentos/GitHub/POO/AdsPoo/HerancaProduto/obj/Debug/net6.0/HerancaProduto.csproj.AssemblyReference.cache
+/home/willian/Documentos/GitHub/POO/AdsPoo/HerancaProduto/obj/Debug/net6.0/HerancaProduto.GeneratedMSBuildEditorConfig.editorconfig
+/home/willian/Documentos/GitHub/POO/AdsPoo/HerancaProduto/obj/Debug/net6.0/HerancaProduto.AssemblyInfoInputs.cache
+/home/willian/Documentos/GitHub/POO/AdsPoo/HerancaProduto/obj/Debug/net6.0/HerancaProduto.AssemblyInfo.cs
+/home/willian/Documentos/GitHub/POO/AdsPoo/HerancaProduto/obj/Debug/net6.0/HerancaProduto.csproj.CoreCompileInputs.cache
+/home/willian/Documentos/GitHub/POO/AdsPoo/HerancaProduto/bin/Debug/net6.0/HerancaProduto
+/home/willian/Documentos/GitHub/POO/AdsPoo/HerancaProduto/bin/Debug/net6.0/HerancaProduto.deps.json
+/home/willian/Documentos/GitHub/POO/AdsPoo/HerancaProduto/bin/Debug/net6.0/HerancaProduto.runtimeconfig.json
+/home/willian/Documentos/GitHub/POO/AdsPoo/HerancaProduto/bin/Debug/net6.0/HerancaProduto.dll
+/home/willian/Documentos/GitHub/POO/AdsPoo/HerancaProduto/bin/Debug/net6.0/ref/HerancaProduto.dll
+/home/willian/Documentos/GitHub/POO/AdsPoo/HerancaProduto/bin/Debug/net6.0/HerancaProduto.pdb
+/home/willian/Documentos/GitHub/POO/AdsPoo/HerancaProduto/obj/Debug/net6.0/HerancaProduto.dll
+/home/willian/Documentos/GitHub/POO/AdsPoo/HerancaProduto/obj/Debug/net6.0/ref/HerancaProduto.dll
+/home/willian/Documentos/GitHub/POO/AdsPoo/HerancaProduto/obj/Debug/net6.0/HerancaProduto.pdb
+/home/willian/Documentos/GitHub/POO/AdsPoo/HerancaProduto/obj/Debug/net6.0/HerancaProduto.genruntimeconfig.cache
