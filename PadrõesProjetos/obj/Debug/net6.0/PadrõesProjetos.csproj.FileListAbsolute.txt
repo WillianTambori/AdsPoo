@@ -1,0 +1,15 @@
+/home/willian/Documentos/GitHub/POO/AdsPoo/PadrõesProjetos/obj/Debug/net6.0/PadrõesProjetos.csproj.AssemblyReference.cache
+/home/willian/Documentos/GitHub/POO/AdsPoo/PadrõesProjetos/obj/Debug/net6.0/PadrõesProjetos.GeneratedMSBuildEditorConfig.editorconfig
+/home/willian/Documentos/GitHub/POO/AdsPoo/PadrõesProjetos/obj/Debug/net6.0/PadrõesProjetos.AssemblyInfoInputs.cache
+/home/willian/Documentos/GitHub/POO/AdsPoo/PadrõesProjetos/obj/Debug/net6.0/PadrõesProjetos.AssemblyInfo.cs
+/home/willian/Documentos/GitHub/POO/AdsPoo/PadrõesProjetos/obj/Debug/net6.0/PadrõesProjetos.csproj.CoreCompileInputs.cache
+/home/willian/Documentos/GitHub/POO/AdsPoo/PadrõesProjetos/bin/Debug/net6.0/PadrõesProjetos
+/home/willian/Documentos/GitHub/POO/AdsPoo/PadrõesProjetos/bin/Debug/net6.0/PadrõesProjetos.deps.json
+/home/willian/Documentos/GitHub/POO/AdsPoo/PadrõesProjetos/bin/Debug/net6.0/PadrõesProjetos.runtimeconfig.json
+/home/willian/Documentos/GitHub/POO/AdsPoo/PadrõesProjetos/bin/Debug/net6.0/PadrõesProjetos.dll
+/home/willian/Documentos/GitHub/POO/AdsPoo/PadrõesProjetos/bin/Debug/net6.0/ref/PadrõesProjetos.dll
+/home/willian/Documentos/GitHub/POO/AdsPoo/PadrõesProjetos/bin/Debug/net6.0/PadrõesProjetos.pdb
+/home/willian/Documentos/GitHub/POO/AdsPoo/PadrõesProjetos/obj/Debug/net6.0/PadrõesProjetos.dll
+/home/willian/Documentos/GitHub/POO/AdsPoo/PadrõesProjetos/obj/Debug/net6.0/ref/PadrõesProjetos.dll
+/home/willian/Documentos/GitHub/POO/AdsPoo/PadrõesProjetos/obj/Debug/net6.0/PadrõesProjetos.pdb
+/home/willian/Documentos/GitHub/POO/AdsPoo/PadrõesProjetos/obj/Debug/net6.0/PadrõesProjetos.genruntimeconfig.cache
