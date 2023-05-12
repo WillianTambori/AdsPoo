@@ -1,0 +1,15 @@
+/home/willian/Documentos/GitHub/POO/AdsPoo/AbstrataCliente/obj/Debug/net6.0/AbstrataCliente.csproj.AssemblyReference.cache
+/home/willian/Documentos/GitHub/POO/AdsPoo/AbstrataCliente/obj/Debug/net6.0/AbstrataCliente.GeneratedMSBuildEditorConfig.editorconfig
+/home/willian/Documentos/GitHub/POO/AdsPoo/AbstrataCliente/obj/Debug/net6.0/AbstrataCliente.AssemblyInfoInputs.cache
+/home/willian/Documentos/GitHub/POO/AdsPoo/AbstrataCliente/obj/Debug/net6.0/AbstrataCliente.AssemblyInfo.cs
+/home/willian/Documentos/GitHub/POO/AdsPoo/AbstrataCliente/obj/Debug/net6.0/AbstrataCliente.csproj.CoreCompileInputs.cache
+/home/willian/Documentos/GitHub/POO/AdsPoo/AbstrataCliente/bin/Debug/net6.0/AbstrataCliente
+/home/willian/Documentos/GitHub/POO/AdsPoo/AbstrataCliente/bin/Debug/net6.0/AbstrataCliente.deps.json
+/home/willian/Documentos/GitHub/POO/AdsPoo/AbstrataCliente/bin/Debug/net6.0/AbstrataCliente.runtimeconfig.json
+/home/willian/Documentos/GitHub/POO/AdsPoo/AbstrataCliente/bin/Debug/net6.0/AbstrataCliente.dll
+/home/willian/Documentos/GitHub/POO/AdsPoo/AbstrataCliente/bin/Debug/net6.0/ref/AbstrataCliente.dll
+/home/willian/Documentos/GitHub/POO/AdsPoo/AbstrataCliente/bin/Debug/net6.0/AbstrataCliente.pdb
+/home/willian/Documentos/GitHub/POO/AdsPoo/AbstrataCliente/obj/Debug/net6.0/AbstrataCliente.dll
+/home/willian/Documentos/GitHub/POO/AdsPoo/AbstrataCliente/obj/Debug/net6.0/ref/AbstrataCliente.dll
+/home/willian/Documentos/GitHub/POO/AdsPoo/AbstrataCliente/obj/Debug/net6.0/AbstrataCliente.pdb
+/home/willian/Documentos/GitHub/POO/AdsPoo/AbstrataCliente/obj/Debug/net6.0/AbstrataCliente.genruntimeconfig.cache
