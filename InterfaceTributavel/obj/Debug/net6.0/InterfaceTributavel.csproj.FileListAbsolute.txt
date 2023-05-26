@@ -1,0 +1,15 @@
+/home/willian/Documentos/GitHub/POO/AdsPoo/InterfaceTributavel/bin/Debug/net6.0/InterfaceTributavel
+/home/willian/Documentos/GitHub/POO/AdsPoo/InterfaceTributavel/bin/Debug/net6.0/InterfaceTributavel.deps.json
+/home/willian/Documentos/GitHub/POO/AdsPoo/InterfaceTributavel/bin/Debug/net6.0/InterfaceTributavel.runtimeconfig.json
+/home/willian/Documentos/GitHub/POO/AdsPoo/InterfaceTributavel/bin/Debug/net6.0/InterfaceTributavel.dll
+/home/willian/Documentos/GitHub/POO/AdsPoo/InterfaceTributavel/bin/Debug/net6.0/ref/InterfaceTributavel.dll
+/home/willian/Documentos/GitHub/POO/AdsPoo/InterfaceTributavel/bin/Debug/net6.0/InterfaceTributavel.pdb
+/home/willian/Documentos/GitHub/POO/AdsPoo/InterfaceTributavel/obj/Debug/net6.0/InterfaceTributavel.csproj.AssemblyReference.cache
+/home/willian/Documentos/GitHub/POO/AdsPoo/InterfaceTributavel/obj/Debug/net6.0/InterfaceTributavel.GeneratedMSBuildEditorConfig.editorconfig
+/home/willian/Documentos/GitHub/POO/AdsPoo/InterfaceTributavel/obj/Debug/net6.0/InterfaceTributavel.AssemblyInfoInputs.cache
+/home/willian/Documentos/GitHub/POO/AdsPoo/InterfaceTributavel/obj/Debug/net6.0/InterfaceTributavel.AssemblyInfo.cs
+/home/willian/Documentos/GitHub/POO/AdsPoo/InterfaceTributavel/obj/Debug/net6.0/InterfaceTributavel.csproj.CoreCompileInputs.cache
+/home/willian/Documentos/GitHub/POO/AdsPoo/InterfaceTributavel/obj/Debug/net6.0/InterfaceTributavel.dll
+/home/willian/Documentos/GitHub/POO/AdsPoo/InterfaceTributavel/obj/Debug/net6.0/ref/InterfaceTributavel.dll
+/home/willian/Documentos/GitHub/POO/AdsPoo/InterfaceTributavel/obj/Debug/net6.0/InterfaceTributavel.pdb
+/home/willian/Documentos/GitHub/POO/AdsPoo/InterfaceTributavel/obj/Debug/net6.0/InterfaceTributavel.genruntimeconfig.cache

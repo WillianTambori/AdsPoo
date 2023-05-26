@@ -1,0 +1,15 @@
+/home/willian/Documentos/GitHub/POO/AdsPoo/InterfaceAutenticavel/obj/Debug/net6.0/InterfaceAutenticavel.csproj.AssemblyReference.cache
+/home/willian/Documentos/GitHub/POO/AdsPoo/InterfaceAutenticavel/obj/Debug/net6.0/InterfaceAutenticavel.GeneratedMSBuildEditorConfig.editorconfig
+/home/willian/Documentos/GitHub/POO/AdsPoo/InterfaceAutenticavel/obj/Debug/net6.0/InterfaceAutenticavel.AssemblyInfoInputs.cache
+/home/willian/Documentos/GitHub/POO/AdsPoo/InterfaceAutenticavel/obj/Debug/net6.0/InterfaceAutenticavel.AssemblyInfo.cs
+/home/willian/Documentos/GitHub/POO/AdsPoo/InterfaceAutenticavel/obj/Debug/net6.0/InterfaceAutenticavel.csproj.CoreCompileInputs.cache
+/home/willian/Documentos/GitHub/POO/AdsPoo/InterfaceAutenticavel/bin/Debug/net6.0/InterfaceAutenticavel
+/home/willian/Documentos/GitHub/POO/AdsPoo/InterfaceAutenticavel/bin/Debug/net6.0/InterfaceAutenticavel.deps.json
+/home/willian/Documentos/GitHub/POO/AdsPoo/InterfaceAutenticavel/bin/Debug/net6.0/InterfaceAutenticavel.runtimeconfig.json
+/home/willian/Documentos/GitHub/POO/AdsPoo/InterfaceAutenticavel/bin/Debug/net6.0/InterfaceAutenticavel.dll
+/home/willian/Documentos/GitHub/POO/AdsPoo/InterfaceAutenticavel/bin/Debug/net6.0/ref/InterfaceAutenticavel.dll
+/home/willian/Documentos/GitHub/POO/AdsPoo/InterfaceAutenticavel/bin/Debug/net6.0/InterfaceAutenticavel.pdb
+/home/willian/Documentos/GitHub/POO/AdsPoo/InterfaceAutenticavel/obj/Debug/net6.0/InterfaceAutenticavel.dll
+/home/willian/Documentos/GitHub/POO/AdsPoo/InterfaceAutenticavel/obj/Debug/net6.0/ref/InterfaceAutenticavel.dll
+/home/willian/Documentos/GitHub/POO/AdsPoo/InterfaceAutenticavel/obj/Debug/net6.0/InterfaceAutenticavel.pdb
+/home/willian/Documentos/GitHub/POO/AdsPoo/InterfaceAutenticavel/obj/Debug/net6.0/InterfaceAutenticavel.genruntimeconfig.cache
