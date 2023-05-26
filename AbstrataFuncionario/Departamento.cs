@@ -69,7 +69,7 @@ namespace AbstrataFuncionario
         public void MostrarQtdDependentesPorFuncionarios(){
             for(int i=0;i<VetF.Count;i++){
                 Funcionario f = VetF.ElementAt<Funcionario>(i);
-                int qtd = f.VtDep.Count;
+                int qtd = f.QtdDependente();
                 Console.WriteLine("\nQuantidade de dependentes do  " + f.Nome +" é " + qtd);
             }
         }

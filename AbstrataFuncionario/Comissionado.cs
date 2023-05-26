@@ -22,22 +22,7 @@ namespace AbstrataFuncionario
             base.Mostrar();//chamado o método da superclasse mostrando códig, nome e salário
             Console.WriteLine($"porcenteagem: {Porcentagem,5}");
         }
-        public override void addDependente(Dependente d){
-            base.addDependente(d);
-        }
-        public override void remDepCod(int cod){
-            base.remDepCod(cod);
-        }
-        public override void remDepMaior(){
-            base.remDepMaior();
-        }
-        public override void ListarDependente(){
-            base.ListarDependente();
-        }
-        public override int QtdDependente()
-        {
-            return base.QtdDependente();
-        }
+        
 
 
     }

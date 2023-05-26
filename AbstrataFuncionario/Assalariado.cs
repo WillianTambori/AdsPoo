@@ -15,21 +15,6 @@ namespace AbstrataFuncionario
         {
             return Salario *30/ diasUteis;
         }
-        public override void addDependente(Dependente d){
-            base.addDependente(d);
-        }
-        public override void remDepCod(int cod){
-                base.remDepCod(cod);
-            }
-            public override void remDepMaior(){
-                base.remDepMaior();
-            }
-        public override void ListarDependente(){
-            base.ListarDependente();
-        }
-        public override int QtdDependente()
-        {
-            return base.QtdDependente();
-        }
+       
     }
 }

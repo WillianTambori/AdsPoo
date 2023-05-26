@@ -17,7 +17,7 @@ d1.Admitir(c2);
 
 d1.Listar();
 //d1.Excluir(1);
-d1.Listar();
+//d1.Listar();
 //d1.Excluir(1);
 
 //double folha = d1.CalcularFolha(30);
@@ -56,7 +56,7 @@ a1.ListarDependente();
 
 d1.MostrarQtdDependentesPorFuncionarios();
 
-Console.WriteLine($"\nQuantidade de dependentes do {c2.Nome} é {c2.QtdDependente()}");
+
 
 
 
